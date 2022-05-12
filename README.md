@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Utsav rai
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning Competitive Programming and flutter
-- 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me - Utsavrai890@gmail.com & utsav.21ug1004@iiitranchi.ac.in
 
 
