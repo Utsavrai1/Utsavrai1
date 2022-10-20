@@ -8,7 +8,7 @@
 🌱 I’m currently Exploring Open Source Contribution.<br>
 📫 How to reach me: <a style="text-decoration:none;color:lightgreen" href="mailto:utsavrai684@gmail.com">Mail</a><br>
 
-<img align="right"  alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1FmbDy2Hh7soPZHnCIPMvByWtZvAU-KAO"/>
+<img align="right"  alt="Coding" width="350" src="https://drive.google.com/uc?export=view&id=1FmbDy2Hh7soPZHnCIPMvByWtZvAU-KAO"/>
 
 <br>
 
