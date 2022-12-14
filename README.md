@@ -35,7 +35,7 @@
 ## 💻 Coding Platforms:
 
 <p align="left">
-<a href="https://www.codechef.com/users/unkown_1" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="sb_decoder" height="40" width="40" /></a>&nbsp
+<a href="https://www.codechef.com/users/utsavrai" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="sb_decoder" height="40" width="40" /></a>&nbsp
 <a href="https://www.hackerrank.com/Utsavrai" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/118/895/png-transparent-hackerrank-logos-and-brands-line-filled-icon-thumbnail.png" alt="sowham18" height="40" width="40" /></a>&nbsp
 <a href="https://codeforces.com/profile/Utsavrai23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sb_decoder" height="40" width="40" /></a>&nbsp
 </p>
@@ -53,7 +53,7 @@
 </a>
 </p>
 <p align="center">
-<img width="1000" src="https://activity-graph.herokuapp.com/graph?username=Utsavrai1&theme=react-dark" />
+<!-- <img width="1000" src="https://activity-graph.herokuapp.com/graph?username=Utsavrai1&theme=react-dark" /> -->
 <br>
 </p>
 <br>
