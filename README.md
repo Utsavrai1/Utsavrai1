@@ -53,7 +53,7 @@
 </a>
 </p>
 <p align="center">
-<!-- <img width="1000" src="https://activity-graph.herokuapp.com/graph?username=Utsavrai1&theme=react-dark" /> -->
+<img width="1000" src="https://activity-graph.herokuapp.com/graph?username=Utsavrai1&theme=react-dark" />
 <br>
 </p>
 <br>
