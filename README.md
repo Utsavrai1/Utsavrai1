@@ -46,10 +46,10 @@
 
 <p align="center">
 <a href="https://github.com/Utsavrai1">
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Utsavrai1&theme=react" />
+  <br><br>
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Utsavrai1&theme=tokyonight"/>
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Utsavrai1&theme=tokyonight"/> 
-  <br><br>
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Utsavrai1&theme=react" />
 <br><br>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Utsavrai1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
   <img height="150em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Utsavrai1&layout=compact&langs_count=8&theme=algolia"/>
