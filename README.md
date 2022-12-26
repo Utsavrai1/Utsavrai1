@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-🔭 I’m Currently learning DSA , Flutter , Web Dev,Firebase,MongoDb.<br>
+🔭 I’m Currently learning DSA , Flutter , Web Dev.<br>
 🌱 I’m currently Exploring Open Source Contribution.<br>
 📫 How to reach me: <a style="text-decoration:none;color:lightgreen" href="mailto:utsaviiitr@gmail.com">Mail</a><br>
 
