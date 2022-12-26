@@ -35,9 +35,9 @@
 ## 💻 Coding Platforms:
 
 <p align="left">
-<a href="https://www.codechef.com/users/utsavrai" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="sb_decoder" height="40" width="40" /></a>&nbsp
-<a href="https://www.hackerrank.com/Utsavrai" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/118/895/png-transparent-hackerrank-logos-and-brands-line-filled-icon-thumbnail.png" alt="sowham18" height="40" width="40" /></a>&nbsp
-<a href="https://codeforces.com/profile/Utsavrai23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sb_decoder" height="40" width="40" /></a>&nbsp
+<a href="https://www.codechef.com/users/utsavrai" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="Utsavrai1" height="40" width="40" /></a>&nbsp
+<a href="https://www.hackerrank.com/Utsavrai" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/118/895/png-transparent-hackerrank-logos-and-brands-line-filled-icon-thumbnail.png" alt="Utsavrai1" height="40" width="40" /></a>&nbsp
+<a href="https://codeforces.com/profile/Utsavrai23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Utsavrai1" height="40" width="40" /></a>&nbsp
 </p>
 
 <br>
@@ -47,8 +47,7 @@
 <p align="center">
 <a href="https://github.com/Utsavrai1">
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Utsavrai1&theme=react" />
-    <img height="150em" src="
-https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Utsavrai1&theme=github_dark"/> 
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Utsavrai1&theme=github_dark"/> 
   <br>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Utsavrai1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
   <img height="150em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Utsavrai1&layout=compact&langs_count=8&theme=algolia"/>
