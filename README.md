@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utsav Rai</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Utsavrai1&label=Profile%20views&color=brightgreen&style=flat" alt="sowham-3098" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Utsavrai1&label=Profile%20views&color=brightgreen&style=flat" alt="Utsavrai1" /> </p>
 
 # 💫 About Me:
 
