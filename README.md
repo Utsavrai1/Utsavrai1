@@ -47,7 +47,7 @@
 <p align="center">
 <a href="https://github.com/Utsavrai1">
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Utsavrai1&theme=react" />
-    <img height="150em" width="450em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Utsavrai1&theme=github_dark"/> 
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Utsavrai1&theme=2077"/> 
   <br>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Utsavrai1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
   <img height="150em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Utsavrai1&layout=compact&langs_count=8&theme=algolia"/>
