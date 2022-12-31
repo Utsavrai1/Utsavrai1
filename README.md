@@ -42,6 +42,7 @@
 <a href="https://www.codechef.com/users/utsavrai" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="Utsavrai1" height="40" width="40" /></a>&nbsp
 <a href="https://www.hackerrank.com/Utsavrai" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/118/895/png-transparent-hackerrank-logos-and-brands-line-filled-icon-thumbnail.png" alt="Utsavrai1" height="40" width="40" /></a>&nbsp
 <a href="https://codeforces.com/profile/Utsavrai23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Utsavrai1" height="40" width="40" /></a>&nbsp
+<a href="https://leetcode.com/utsavrai890/" target="blank"><img align="center" src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="Utsavrai1" height="40" width="40" /></a>&nbsp
 </p>
 
 <br>
