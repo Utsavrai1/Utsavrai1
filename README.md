@@ -16,6 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/raiutsav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Utsav Rai" height="30" width="40" /></a>&nbsp
 <a href="https://www.instagram.com/_utsavrai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_utsavrai" height="30" width="40" /></a>&nbsp
+<a href="https://wakatime.com/@Utsavrai1" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/4814844?s=200&v=4" alt="Utsavrai1" height="30" width="40" /></a>&nbsp
 </p>
 
 <br>
