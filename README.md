@@ -51,7 +51,7 @@
 
 <p align="center">
 <a href="https://github.com/Utsavrai1">
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Utsavrai1&theme=react" />
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=Utsavrai1&theme=react" />
   <br><br>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Utsavrai1&theme=react&custom_title=Wakatime+Status+for+personal+projects&count_private=true&v=2" />
   <br><br>
