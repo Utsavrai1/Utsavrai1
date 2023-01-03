@@ -53,6 +53,8 @@
 <a href="https://github.com/Utsavrai1">
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Utsavrai1&theme=react" />
   <br><br>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Utsavrai1&theme=react" />
+  <br><br>
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Utsavrai1&theme=tokyonight"/>
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Utsavrai1&theme=tokyonight"/> 
 <br><br>
