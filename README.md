@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Utsav Rai</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Utsavrai1&label=Profile%20views&color=brightgreen&style=flat" alt="Utsavrai1" /> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Utsavrai1&label=Profile%20views&color=blue&style=flat" alt="Utsavrai1" />
+<img src="https://wakatime.com/badge/user/30a208f6-5dae-407b-8d5f-4cb4583249c1.svg" alt="Utsavrai1" />
+</p>
 
 # 💫 About Me:
 
@@ -16,7 +19,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/raiutsav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Utsav Rai" height="30" width="40" /></a>&nbsp
 <a href="https://www.instagram.com/_utsavrai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_utsavrai" height="30" width="40" /></a>&nbsp
-<a href="https://wakatime.com/@Utsavrai1" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/4814844?s=200&v=4" alt="Utsavrai1" height="30" width="40" /></a>&nbsp
 </p>
 
 <br>
@@ -44,6 +46,7 @@
 <a href="https://www.hackerrank.com/Utsavrai" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/118/895/png-transparent-hackerrank-logos-and-brands-line-filled-icon-thumbnail.png" alt="Utsavrai1" height="40" width="40" /></a>&nbsp
 <a href="https://codeforces.com/profile/Utsavrai23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Utsavrai1" height="40" width="40" /></a>&nbsp
 <a href="https://leetcode.com/utsavrai890/" target="blank"><img align="center" src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="Utsavrai1" height="40" width="40" /></a>&nbsp
+<a href="https://wakatime.com/@Utsavrai1" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/4814844?s=200&v=4" alt="Utsavrai1" height="30" width="40" /></a>&nbsp
 </p>
 
 <br>
