@@ -19,8 +19,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/raiutsav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Utsav Rai" height="30" width="40" /></a>&nbsp
 <a href="https://www.instagram.com/_utsavrai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_utsavrai" height="30" width="40" /></a>&nbsp
+<a href="https://dev.to/utsavrai1" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="_utsavrai" height="30" width="40" /></a>&nbsp
 </p>
-
 <br>
 
 ## 💻 Tech Stack:
