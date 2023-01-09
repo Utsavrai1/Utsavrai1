@@ -5,6 +5,8 @@
 <img src="https://wakatime.com/badge/user/30a208f6-5dae-407b-8d5f-4cb4583249c1.svg" alt="Utsavrai1" />
 </p>
 
+<p align="left"> <a href="https://twitter.com/Utsavrai02" target="blank"><img src="https://img.shields.io/twitter/follow/Utsavrai02?logo=twitter&style=for-the-badge" alt="emperoryp" /></a> </p>
+
 # 💫 About Me:
 
 🔭 I’m Currently learning DSA , Flutter.<br>
