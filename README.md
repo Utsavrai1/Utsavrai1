@@ -3,9 +3,9 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Utsavrai1&label=Profile%20views&color=blue&style=flat" alt="Utsavrai1" />
 <img src="https://wakatime.com/badge/user/30a208f6-5dae-407b-8d5f-4cb4583249c1.svg" alt="Utsavrai1" />
-</p>
+<a href="https://twitter.com/Utsavrai02" target="blank"><img src="https://img.shields.io/twitter/follow/Utsavrai02?logo=twitter&style=social" alt="Utsavrai" /></a>
+<a href="https://twitter.com/Utsavrai02" target="blank"><img src="https://img.shields.io/github/followers/Utsavrai1?logo=github&style=social" alt="Utsavrai" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Utsavrai02" target="blank"><img src="https://img.shields.io/twitter/follow/Utsavrai02?logo=twitter&style=for-the-badge" alt="emperoryp" /></a> </p>
 
 # 💫 About Me:
 
