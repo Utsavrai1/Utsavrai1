@@ -70,7 +70,7 @@
   <img height="150em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Utsavrai1&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 <p align="center">
-<img width="1000" src="https://github-readme-activity-graph.cyclic.app/graph?username=Utsavrai1&theme=react-dark" />
+<img width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=Utsavrai1&theme=react-dark" />
 <br>
 </p>
 <br>
