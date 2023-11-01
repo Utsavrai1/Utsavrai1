@@ -64,7 +64,7 @@
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=Utsavrai1&theme=react" />
   <br><br>
 <a href="https://wakatime.com/@Utsavrai1">
-<img height="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Utsavrai1&theme=react" />
+<img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Utsavrai1&theme=react&layout=compact" />
   </a>
   <br><br>
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Utsavrai1&theme=tokyonight"/>
