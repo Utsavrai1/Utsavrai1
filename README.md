@@ -9,8 +9,9 @@
 
 # 💫 About Me:
 
-🔭 I’m Currently learning DSA , Flutter.<br>
-🌱 I’m currently Exploring Open Source Contribution.<br>
+🔭 I’m currently working on MIHOSTEL.<br>
+🌱 I’m currently Exploring ReactJs.<br>
+💬 Ask me about Flutter, NodeJs, MongoDb, ReactJs<br>
 📫 How to reach me: <a style="text-decoration:none;color:lightgreen" href="mailto:utsaviiitr@gmail.com">Mail</a><br>
 
 <img align="right"  alt="Coding" width="350" src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif"/>
