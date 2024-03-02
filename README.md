@@ -85,6 +85,16 @@
 
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+##  ⚙️ &nbsp;Leetcode Analytics
+
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" width="60px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="60px"></img>
+
+<br>
+
+![](https://leetcard.jacoblin.cool/_utsavrai?font=Dancing_Script)
+
+
 ## HacktoberFest
 
 <br>
