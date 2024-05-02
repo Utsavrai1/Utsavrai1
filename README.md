@@ -89,6 +89,8 @@
 
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60px"></img>
 <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" width="60px"></img>
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" width="60px"></img>
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" width="60px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="60px"></img>
 
 <br>
